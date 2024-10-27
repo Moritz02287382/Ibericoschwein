@@ -1,0 +1,10 @@
+projekt-website/
+│
+├── index.html
+├── about.html
+├── gallery.html
+├── contact.html
+├── css/
+│   └── styles.css
+└── images/
+    └── [verschiedene Bilddateien hier]
